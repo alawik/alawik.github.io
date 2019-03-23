@@ -12,12 +12,10 @@ the public for announcements or commenting purposes.
 At this point, there will most likely be no traffic, but I wish to extend some
 of my research to the public in the event someone is interested.
 
-**Updated September 1, 2018:**
+**Updated March 23, 2019:**
 
 ## My Projects:
 
-- [The Meissa Project](https://meissa.io/)
-- [The Kapela Project](https://kapela.io/)
 - [Rhapsode Platform](/2018/09/01/rhapsode-distributed-computing-platform.html)
 - [HyperActive Repo](https://github.com/alawik/hyperactive)
 
